@@ -1,0 +1,7 @@
+.idea
+node_modules
+dist
+*.bundle.js
+*.log
+.DS_Store
+package-lock.json
